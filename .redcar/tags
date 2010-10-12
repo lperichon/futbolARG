@@ -1,0 +1,32 @@
+1286917803
+ApplicationStylesheet	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/ApplicationStylesheet.java	class ApplicationStylesheet
+ApplicationStylesheet	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/ApplicationStylesheet.java	public ApplicationStylesheet(
+FutbolargActivity	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargActivity.java	class FutbolargActivity
+FutbolargAppInfo	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	class FutbolargAppInfo
+FutbolargAppInfo	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public FutbolargAppInfo(
+FutbolargApplication	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargApplication.java	class FutbolargApplication
+R	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/R.java	class R
+RA	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/RA.java	class RA
+attr	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/R.java	class attr
+drawable	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/R.java	class drawable
+getAttr	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/RA.java	public static final Integer getAttr(
+getCopyright	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getCopyright(
+getDescription	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getDescription(
+getDrawable	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/RA.java	public static final Integer getDrawable(
+getFilteredBindings	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargApplication.java	public String[] getFilteredBindings(
+getGUID	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getGUID(
+getIcon	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getIcon(
+getId	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getId(
+getName	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getName(
+getPublisher	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getPublisher(
+getUrl	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getUrl(
+getVersion	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public String getVersion(
+isAnalyticsEnabled	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public boolean isAnalyticsEnabled(
+isFullscreen	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public boolean isFullscreen(
+isNavBarHidden	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	public boolean isNavBarHidden(
+onCreate	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargApplication.java	public void onCreate(
+style	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/R.java	class style
+was	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargAppInfo.java	class was
+was	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/FutbolargApplication.java	class was
+was	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/R.java	class was
+was	/home/luigi/Workspace/futbolARG/build/android/src/ar/com/juanv/futbolARG/RA.java	class was
