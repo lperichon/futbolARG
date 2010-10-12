@@ -56,7 +56,7 @@ var tab2 = Titanium.UI.createTab({
 
 var label2 = Titanium.UI.createLabel({
 	color:'#999',
-	text:'Esta es la tabla de posiciones',
+	text:'Esta es LA tabla de posiciones',
 	font:{fontSize:20,fontFamily:'Helvetica Neue'},
 	textAlign:'center',
 	width:'auto'
